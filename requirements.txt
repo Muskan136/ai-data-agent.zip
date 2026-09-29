@@ -1,0 +1,6 @@
+streamlit>=1.64.0
+scikit-learn>=1.4
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+anthropic>=0.40
