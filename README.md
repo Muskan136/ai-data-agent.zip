@@ -24,7 +24,7 @@ Polished dark UI with gradient hero, KPI cards, interactive Altair charts, one-c
 Baseline 0.19 → Logistic Regression 0.98 (best), Random Forest 0.97. Top features: hue, proline, flavanoids.
 Regression path checked on the diabetes dataset (best CV R² ≈ 0.48 with Ridge).
 🚀 Live Demo:
-https://muskan136-demand-forecast-ai-app-hrjbbb.streamlit.app/
+
 
 An AI-powered demand forecasting application for analyzing historical demand data and generating future forecasts.
 
